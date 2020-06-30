@@ -83,7 +83,7 @@ body {
 .box {
      text-align: center;
      padding: 120px 0 90px 0;
-     background-color: #FF0248;
+     background: #FF0248;
      flex-basis: 29.3%;
      justify-content: space-between;
      margin: 50px 0;
@@ -101,7 +101,7 @@ body {
      width: 90%;
      margin: 0 auto;
      padding: 200px 0;
-     background-image: linear-gradient(270deg, #ff024adc, #282b22e0 ), url("https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");  
+     background: linear-gradient(to top left, #ff024adc, #282b227c ), url("https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");  
 }
 
 
