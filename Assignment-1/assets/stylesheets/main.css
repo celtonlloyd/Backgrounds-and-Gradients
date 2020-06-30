@@ -89,7 +89,7 @@ body {
      margin: 50px 0;
      font-size: 20px;
      font-weight: 600;
-     border-radius: 10px;
+     border-radius: 13px;
 }
 .box-2 {
      background: linear-gradient(270deg, #FF0248, #282B22 );
@@ -101,7 +101,7 @@ body {
      width: 90%;
      margin: 0 auto;
      padding: 200px 0;
-     background: linear-gradient(to top left, #ff024adc, #282b227c ), url("https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");  
+     background: linear-gradient(to top left, #ff024adc, #282b227c ), url("https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
 }
 
 
