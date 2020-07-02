@@ -127,10 +127,12 @@ h4 {
     font-weight: 600;
     display: inline-block;
 }
+.fab {
+    font-size: 18px;
+}
 .social-links .fab {
-    font-size: 15px;
     position: relative;
-    top: 2.5px;
+    top: 3px;
     padding-right: 3px;
 }
 .fa-facebook-square, .fa-twitter {
@@ -174,7 +176,7 @@ h4 {
 }
 .fa-sort-up {
     position: relative;
-    top: 2.5px;
+    top: 3px;
 }
 .fa-sort-down {
     position: relative;
